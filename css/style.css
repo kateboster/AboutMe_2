@@ -143,8 +143,7 @@ a:hover {
     }
     .introduction-section,
     .location-section,
-    .questions-section,
-    .content-footer {
+    .questions-section {
         border-radius: none;
         background-color: #9EF9F4;
   }
