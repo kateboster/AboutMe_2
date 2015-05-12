@@ -141,4 +141,11 @@ a:hover {
     .masthead-heading {
         font-size: 3em;
     }
+    .introduction-section,
+    .location-section,
+    .questions-section,
+    .content-footer {
+        border-radius: none;
+        background-color: #9EF9F4;
   }
+}
