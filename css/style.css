@@ -144,7 +144,7 @@ a:hover {
     .introduction-section,
     .location-section,
     .questions-section {
-        border-radius: none;
+        border-radius: 0;
         background-color: #9EF9F4;
   }
 }
